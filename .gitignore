@@ -1,0 +1,13 @@
+# Ignora o dataset
+data/
+
+# Ambientes virtuais
+.venv/
+env/
+__pycache__/
+
+# Notebooks temporários
+*.ipynb_checkpoints
+
+# Configs do sistema
+.DS_Store
