@@ -1,9 +1,10 @@
-tensorflow==2.14.0
-keras==2.14.0
-numpy
-pandas
-matplotlib
-scikit-learn
-opencv-python
 jupyter
 kagglehub
+keras==2.14.0
+matplotlib
+numpy
+opencv-python
+pandas
+scikit-learn
+seaborn
+tensorflow
