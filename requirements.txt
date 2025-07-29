@@ -2,7 +2,7 @@ jupyter
 ipykernel
 kagglehub
 matplotlib
-numpy
+numpy==1.26.4 # Need a version lower than 2
 opencv-python
 pandas
 scikit-learn
