@@ -1,0 +1,8 @@
+Modelo,Val_Accuracy,Val_Loss
+mobilenetv2_finetuned,0.3686,2.7062
+mobilenetv2_dropout02,0.3194,1.8406
+mobilenetv2_bs64,0.2924,1.8894
+mobilenetv2_lr1e3,0.2383,1.9906
+modelo_base,0.2162,1.9927
+efficientnetb0,0.0737,2.4743
+resnet50,0.0688,3.9083
